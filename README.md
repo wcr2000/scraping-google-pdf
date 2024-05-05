@@ -2,7 +2,7 @@
 ## Follow the step for use this scripts
 You should have python, and git on your pc
 
-1.Install python -> ["how to install python on your PC"](https://www.youtube.com/watch?v=KdSXLAs_rbY)
+1.Install python -> ["how to install python on your PC"](https://www.youtube.com/watch?v=KdSXLAs_rbY)<br>
 2.Install git -> ["how to install git on your PC"](https://www.youtube.com/watch?v=06oCayQf0A0)
 
 when you finish install tools i will go to next step
