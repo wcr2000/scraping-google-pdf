@@ -11,6 +11,7 @@ when you finish install tools i will go to next step
 ```cmd
 git init
 git remote add origin https://github.com/wcr2000/scraping-google-pdf.git
+git clone --branch main https://github.com/wcr2000/scraping-google-pdf.git
 ```
 2.create environtment 
 ```cmd
